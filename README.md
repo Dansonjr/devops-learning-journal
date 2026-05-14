@@ -1,4 +1,14 @@
 
+### Day 3 – CloudFormation Complete! ✅
+
+**Successfully deployed:** VPC + Subnets + Internet Gateway + Route Table + Security Group + RDS PostgreSQL 18.3
+
+**Key commands learned:**
+```bash
+aws cloudformation create-stack
+aws cloudformation describe-stacks
+aws cloudformation delete-stack
+
 **Key learnings:**
 - RDS = managed PostgreSQL in the cloud
 - Security groups = cloud firewalls (must allow my IP)
