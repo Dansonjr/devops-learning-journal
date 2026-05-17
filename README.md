@@ -59,7 +59,7 @@ aws cloudformation delete-stack
 ```bash
 git remote set-url origin git@github.com:username/repo.git
 git remote -v  # verify the change
-Save (`Ctrl+O` → Enter → `Ctrl+X`), then:
+
 
 ```bash
 git add README.md
