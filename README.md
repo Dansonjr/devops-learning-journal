@@ -1,4 +1,20 @@
 
+**Key commands learned:**
+```bash
+aws codepipeline create-pipeline
+aws codebuild create-project
+aws cloudformation deploy
+
+### Day 4 – CI/CD Pipeline Complete! ✅
+
+**What I built:**
+- CodePipeline with Source → Build → Deploy stages
+- CodeBuild project running buildspec.yml
+- CloudFormation stack deployed automatically
+- Full automation from GitHub push to RDS creation
+
+**Pipeline flow:**
+
 ### Day 3 – CloudFormation Complete! ✅
 
 **Successfully deployed:** VPC + Subnets + Internet Gateway + Route Table + Security Group + RDS PostgreSQL 18.3
